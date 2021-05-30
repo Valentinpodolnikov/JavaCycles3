@@ -22,7 +22,7 @@ public class Korni {
 
 
             if(e==f){
-                System.out.println(x+" "+y+" "+z);
+                System.out.println("x = "+x+", y = "+y+", z = "+z);
 
 
             }
